@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yunjunoh1/react-tictactoe-deploy/static/css/main.9a851774.css",
+    "main.js": "/yunjunoh1/react-tictactoe-deploy/static/js/main.fffdaac0.js",
+    "static/js/592.b56706d4.chunk.js": "/yunjunoh1/react-tictactoe-deploy/static/js/592.b56706d4.chunk.js",
+    "index.html": "/yunjunoh1/react-tictactoe-deploy/index.html",
+    "main.9a851774.css.map": "/yunjunoh1/react-tictactoe-deploy/static/css/main.9a851774.css.map",
+    "main.fffdaac0.js.map": "/yunjunoh1/react-tictactoe-deploy/static/js/main.fffdaac0.js.map",
+    "592.b56706d4.chunk.js.map": "/yunjunoh1/react-tictactoe-deploy/static/js/592.b56706d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a851774.css",
+    "static/js/main.fffdaac0.js"
+  ]
+}
